@@ -170,18 +170,8 @@
                                 </div>
                             </div>
                             <a href="contact.html" class="nav-item nav-link">Contact</a>
-                            <a href="{{ route('view_cart') }}" class="nav-item nav-link">Shooping Cart</a>
+                            <a href="{{ route('view_cart') }}" class="nav-item nav-link">Shopping Cart</a>
                         </div>
-                        <div class="navbar-nav ml-auto py-0 d-none d-lg-block">
-                            <a href="" class="btn px-0">
-                                <i class="fas fa-heart text-primary"></i>
-                                <span class="badge text-secondary border border-secondary rounded-circle"
-                                    style="padding-bottom: 2px;">0</span>
-                            </a>
-                            <a href="" class="btn px-0 ml-3">
-                                <i class="fas fa-shopping-cart text-primary"></i>
-                                <span class="badge text-secondary border border-secondary rounded-circle"
-                                    style="padding-bottom: 2px;">0</span>
                             </a>
                         </div>
                     </div>
